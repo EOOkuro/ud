@@ -1,6 +1,3 @@
-
- 
-
 Hi there! Welcome to Cloud9 IDE!
 
 To get you started, we have created a small hello world application.
