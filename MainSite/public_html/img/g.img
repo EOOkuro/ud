@@ -1,0 +1,9 @@
+
+
+echo "<head></head>\n";
+echo "<body>\n";
+echo "This is HTML code\n";
+echo "</body>\n";
+// some PHP code here …
+echo "</html>\n";
+echo "\n";
